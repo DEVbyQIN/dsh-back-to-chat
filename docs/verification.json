@@ -1,0 +1,14 @@
+{
+  "host": "DSH 0.2.0-rc.2 isolated real WebUI",
+  "checks": [
+    "自动化任务 light/dark/position/click/keyboard/retained draft",
+    "上下文洞察 light/dark/position/click/keyboard/retained draft",
+    "loaded via actual host",
+    "plugins button visible",
+    "desktop top clearance",
+    "click returns to native chat with unchanged draft",
+    "dark/narrow",
+    "Enter activation"
+  ],
+  "errors": []
+}

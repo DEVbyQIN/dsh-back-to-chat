@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "返回当前会话 (dsh-back-to-chat)",
+    "description": "从插件、自动化任务和上下文洞察页面返回当前会话"
+  }
+}
